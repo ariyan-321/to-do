@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.to-do-container {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 20px;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-items: center;
+  align-items: center;
+}
+.btn {
+  color: white;
+  border-radius: 6px;
+  padding: 2px 12px;
+  background: green;
+  margin: 5px;
+  cursor: pointer;
+  border: 2px solid green;
+}
+.input {
+  border-radius: 5px;
+  padding: 2px 12px;
+}
+
+ul {
+  text-align: center;
+}
